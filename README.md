@@ -57,7 +57,5 @@ Execute the script to analyze the dataset:
 ```sh
 python analysis.py
 ```
-
-### **4. View Results**  
-Check the generated visualizations and model evaluation metrics in the output folder.  
+ 
 
